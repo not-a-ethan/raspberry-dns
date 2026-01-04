@@ -1,0 +1,20 @@
+{
+  "name": "raspberry-dns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-a-ethan/raspberry-dns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/not-a-ethan/raspberry-dns/issues"
+  },
+  "homepage": "https://github.com/not-a-ethan/raspberry-dns#readme",
+  "type": "module"
+}
